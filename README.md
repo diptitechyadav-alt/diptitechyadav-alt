@@ -1,6 +1,6 @@
 # Hi, I'm Dipti Yadav 👋
 
-🎓 First-Year CSE AI Student  
+🎓 Second-Year CSE AI Student  
 💻 Frontend Developer & UI/UX Enthusiast  
 🤖 Learning AI, DSA & Software Development  
 🚀 Building Projects & Exploring Tech  
